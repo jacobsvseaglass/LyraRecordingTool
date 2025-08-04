@@ -10,6 +10,9 @@ The plugin allows flexible configuration through an external `.ini` file and is 
 
 ---
 
+## Example Recording
+![Multimodal Example](Lyra_vid_20241211_232056.gif)
+
 ## 🧠 Purpose
 
 The plugin is intended for generating **multi-modal datasets** from Lyra gameplay, useful for training AI/ML models on computer vision and scene understanding tasks.
