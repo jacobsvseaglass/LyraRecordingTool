@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LyraRecordingTool",
+	"Description": "Records multiple modality views to disk",
+	"Category": "Other",
+	"CreatedBy": "Jacob Burke",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LyraRecordingTool",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Dependencies": [
+		{
+			"Name": "OpenCV",
+			"Enabled": true
+		}
+	]
+}
