@@ -11,7 +11,7 @@ The plugin allows flexible configuration through an external `.ini` file and is 
 ---
 
 ## Example Recording
-![Multimodal Example](Lyra_vid_20241211_232056.gif)
+![Demo Preview](VidExample/demo.gif)
 
 ## 🧠 Purpose
 
